@@ -35,8 +35,7 @@ Imported using pd.read_csv()
    Purpose: To check for relationships between the features and 'streams', and ALSO among the features  
 
 4. Top 20s (Reflects the preferences and tastes of Spotify users)  
-   Purpose:   
-   This selection ensures that the analysis focuses on the most impactful and relevant observations.  
+   Purpose: This selection ensures that the analysis focuses on the most impactful and relevant observations.  
    Allows for a more targeted examination of key features that contribute to the success of these top-performing entries.  
 
 -----------------------------------------------------------------------------------------------------------
