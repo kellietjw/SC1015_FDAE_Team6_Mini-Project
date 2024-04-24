@@ -1,16 +1,16 @@
-FDAE Team 6 Mini-Project: Popular Spotify Songs
+# FDAE Team 6 Mini-Project: Popular Spotify Songs
 
 Started off by importing the essential libraries: numpy, pandas, seaborn, etc.
 
 
 -----------------------------------------------------------------------------------------------------------
 
-1: Import Data
+### 1: Import Data
 Imported using pd.read_csv()
 
 -----------------------------------------------------------------------------------------------------------
 
-2: Data Cleaning
+### 2: Data Cleaning
 1. Removed non-numeric 'streams' values
 2. Removed duplicates and sorted data in ascending order of 'streams'
 3. Removed irrelevant columns
@@ -20,7 +20,7 @@ Imported using pd.read_csv()
 
 -----------------------------------------------------------------------------------------------------------
 
-3: EDA
+### 3: EDA
 
 1. Uni-Variate Analysis on Musical Features  
    Purpose: To check for relationships between the features and 'streams'  
@@ -40,7 +40,7 @@ Imported using pd.read_csv()
 
 -----------------------------------------------------------------------------------------------------------
 
-4: ML: K-Means Clustering
+### 4: ML: K-Means Clustering
 
 New imports used:  
 from sklearn.cluster import KMeans  
