@@ -23,21 +23,21 @@ Imported using pd.read_csv()
 3: EDA
 
 1. Uni-Variate Analysis on Musical Features
-   Purpose: To check for relationships between the features and 'streams'
-   Box Plots and Histograms for Numerical Features
-   Cat Plot for Categorial Features
+   Purpose: To check for relationships between the features and 'streams'  
+   Box Plots and Histograms for Numerical Features  
+   Cat Plot for Categorial Features  
 
 2. Uni-Variate Analysis on Non-Musical Features
-   Purpose: To check for relationships between the features and 'streams'
-   Box Plots and Histograms for Numerical Features (All numerical)
+   Purpose: To check for relationships between the features and 'streams'  
+   Box Plots and Histograms for Numerical Features (All numerical)  
 
-3. Correlation Matrix / Heat Map
-   Purpose: To check for relationships between the features and 'streams', and ALSO among the features
+3. Correlation Matrix / Heat Map  
+   Purpose: To check for relationships between the features and 'streams', and ALSO among the features  
 
 4. Top 20s (Reflects the preferences and tastes of Spotify users)
-   Purpose: 
-   This selection ensures that the analysis focuses on the most impactful and relevant observations. 
-   Allows for a more targeted examination of key features that contribute to the success of these top-performing entries.
+   Purpose:   
+   This selection ensures that the analysis focuses on the most impactful and relevant observations.  
+   Allows for a more targeted examination of key features that contribute to the success of these top-performing entries.  
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -69,10 +69,11 @@ Individual Contributions:
 @kellietjw - EDA, K-Means Clustering  
 
 References:  
-SC1015 Course Content  
-https://developer.spotify.com/documentation/web-api/reference/get-audio-features  
-https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python  
-https://www.datacamp.com/tutorial/k-means-clustering-python  
-https://drlee.io/the-ultimate-step-by-step-guide-to-data-mining-with-pca-and-kmeans-83a2bcfdba7d  
-https://towardsdatascience.com/k-means-clustering-and-principal-component-analysis-in-10-minutes-2c5b69c36b6b  
-https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a  
+1. https://developer.spotify.com/documentation/web-api/reference/get-audio-features  
+2. https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python  
+3. https://www.datacamp.com/tutorial/k-means-clustering-python  
+4. https://drlee.io/the-ultimate-step-by-step-guide-to-data-mining-with-pca-and-kmeans-83a2bcfdba7d  
+5. https://towardsdatascience.com/k-means-clustering-and-principal-component-analysis-in-10-minutes-2c5b69c36b6b  
+6. https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+7. SC1015 Course Content  
+
