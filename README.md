@@ -65,7 +65,7 @@ from sklearn.decomposition import PCA
 
 Individual Contributions:  
 @sabareeshkannan - EDA, K-Means Clustering  
-@shaniaooi - Data Extraction, Data Clean-Up, EDA 
+@shaniaooi - Data Extraction, Data Clean-Up, EDA  
 @kellietjw - EDA, K-Means Clustering  
 
 References:  
