@@ -22,19 +22,19 @@ Imported using pd.read_csv()
 
 3: EDA
 
-1. Uni-Variate Analysis on Musical Features
+1. Uni-Variate Analysis on Musical Features  
    Purpose: To check for relationships between the features and 'streams'  
    Box Plots and Histograms for Numerical Features  
    Cat Plot for Categorial Features  
 
-2. Uni-Variate Analysis on Non-Musical Features
-   Purpose: To check for relationships between the features and 'streams'  
+2. Uni-Variate Analysis on Non-Musical Features  
+   Purpose: To check for relationships between the features and 'streams'    
    Box Plots and Histograms for Numerical Features (All numerical)  
 
 3. Correlation Matrix / Heat Map  
    Purpose: To check for relationships between the features and 'streams', and ALSO among the features  
 
-4. Top 20s (Reflects the preferences and tastes of Spotify users)
+4. Top 20s (Reflects the preferences and tastes of Spotify users)  
    Purpose:   
    This selection ensures that the analysis focuses on the most impactful and relevant observations.  
    Allows for a more targeted examination of key features that contribute to the success of these top-performing entries.  
