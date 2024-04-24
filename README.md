@@ -59,3 +59,19 @@ from sklearn.decomposition import PCA
 7. Reduce the data to 2 dimensions using PCA, then plot the points on a scatter plot
    Includes other forms of visualisation to display the data cluster by cluster
    (scatter plot with specific cluster highlighted, bar plot)
+
+-----------------------------------------------------------------------------------------------------------
+
+Individual Contributions:
+@sabareeshkannan - EDA, K-Means Clustering
+@shaniaooi - Data Extraction, Data Clean-Up, EDA
+@kellietjw - EDA, K-Means Clustering
+
+References:
+SC1015 Course Content
+https://developer.spotify.com/documentation/web-api/reference/get-audio-features
+https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python
+https://www.datacamp.com/tutorial/k-means-clustering-python
+https://drlee.io/the-ultimate-step-by-step-guide-to-data-mining-with-pca-and-kmeans-83a2bcfdba7d
+https://towardsdatascience.com/k-means-clustering-and-principal-component-analysis-in-10-minutes-2c5b69c36b6b
+https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
