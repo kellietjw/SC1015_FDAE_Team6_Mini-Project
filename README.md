@@ -1,13 +1,13 @@
 FDAE Team 6 Mini-Project: Popular Spotify Songs
 
-We started off by importing the essential libraries: numpy, pandas, seaborn, etc.
+Started off by importing the essential libraries: numpy, pandas, seaborn, etc.
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 1: Import Data
 Imported using pd.read_csv()
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 2: Data Cleaning
 1. Removed non-numeric 'streams' values
@@ -17,7 +17,7 @@ Imported using pd.read_csv()
    (not necessary in this case, no null values)
 5. Listed out the description of relevant features
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 3: EDA
 
@@ -33,9 +33,12 @@ Imported using pd.read_csv()
 3. Correlation Matrix / Heat Map
    Purpose: To check for relationships between the features and 'streams', and ALSO among the features
 
-4. Top 20s
+4. Top 20s (Reflects the preferences and tastes of Spotify users)
+   Purpose: 
+   This selection  ensures that the analysis focuses on the most impactful and relevant observations. 
+   Allows for a more targeted examination of key features that contribute to the succes of these top-performing entries.
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 4: ML: K-Means Clustering
 
